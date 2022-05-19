@@ -1,0 +1,27 @@
+{
+  "name": "banking-database",
+  "version": "1.0.0",
+  "description": "Creating a banking database and making express requests with SQL to alter and pull from database",
+  "main": "bankDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmith3763/banking-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsmith3763/banking-database/issues"
+  },
+  "homepage": "https://github.com/jsmith3763/banking-database#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
